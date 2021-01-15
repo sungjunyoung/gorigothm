@@ -1,10 +1,8 @@
-package add_two_numbers_test
+package add_two_numbers
 
 import (
 	"reflect"
 	"testing"
-
-	. "github.com/sungjunyoung/gorigothm/leetcode/add_two_numbers"
 )
 
 func Test_addTwoNumbers(t *testing.T) {
@@ -96,7 +94,7 @@ func Test_addTwoNumbers(t *testing.T) {
 	}
 
 	for _, test := range tests {
-		result := AddTwoNumbers(test.l1, test.l2)
+		result := addTwoNumbers(test.l1, test.l2)
 		if !reflect.DeepEqual(result, test.expect) {
 			t.Fatal("failed")
 		}
