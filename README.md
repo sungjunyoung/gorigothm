@@ -13,6 +13,6 @@
 
 | Problem | Difficulty | Link | Solution Code Link |
 | ------- | ----------- | ---- | ------------------ |
-| Two Sum | 🙂 | https://leetcode.com/problems/two-sum/ | [leetcode/two_sum/solution.go](leetcode/two_sum/solution.go) |
-| Add Two Numbers | 😳 | https://leetcode.com/problems/add-two-numbers/ | [leetcode/add_two_numbers/solution.go](leetcode/add_two_numbers/solution.go) |
-| Longest Substring without Repeating Characters | 🤪 | https://leetcode.com/problems/longest-substring-without-repeating-characters | [leetcode/longest_substring_without_repeating_characters/solution.go](leetcode/longest_substring_without_repeating_characters/solution.go)
+| Two Sum | 🙂 | [🔗](https://leetcode.com/problems/two-sum/) | [leetcode/two_sum/solution.go](leetcode/two_sum/solution.go) |
+| Add Two Numbers | 😳 | [🔗](https://leetcode.com/problems/add-two-numbers/) | [leetcode/add_two_numbers/solution.go](leetcode/add_two_numbers/solution.go) |
+| Longest Substring without Repeating Characters | 🤪 | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [leetcode/longest_substring_without_repeating_characters/solution.go](leetcode/longest_substring_without_repeating_characters/solution.go)
