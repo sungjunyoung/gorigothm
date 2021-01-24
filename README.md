@@ -20,3 +20,4 @@
 | Longest Substring without Repeating Characters | 🥵 | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [💡](leetcode/longest_substring_without_repeating_characters/solution.go)
 | Median of Two Sorted Arrays | 🙂 | [🔗](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [💡](leetcode/median_of_two_sorted_arrays/solution.go)
 | Longest Palindromic Substring | 🥵 | [🔗](https://leetcode.com/problems/longest-palindromic-substring/) | [💡](leetcode/longest_palindromic_substring/solution.go)
+| ZigZag Conversion | 😳 | [🔗](https://leetcode.com/problems/zigzag-conversion/) | [💡](leetcode/zigzag_conversion/solution.go)
