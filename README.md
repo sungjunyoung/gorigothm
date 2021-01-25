@@ -21,3 +21,4 @@
 | Median of Two Sorted Arrays | 🙂 | [🔗](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [💡](leetcode/median_of_two_sorted_arrays/solution.go)
 | Longest Palindromic Substring | 🥵 | [🔗](https://leetcode.com/problems/longest-palindromic-substring/) | [💡](leetcode/longest_palindromic_substring/solution.go)
 | ZigZag Conversion | 😳 | [🔗](https://leetcode.com/problems/zigzag-conversion/) | [💡](leetcode/zigzag_conversion/solution.go)
+| Reverse Integer | 🙂 | [🔗](https://leetcode.com/problems/reverse-integer/) | [💡](leetcode/reverse_integer/solution.go)
