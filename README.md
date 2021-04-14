@@ -24,3 +24,4 @@
 | Reverse Integer | 🙂 | [🔗](https://leetcode.com/problems/reverse-integer/) | [💡](leetcode/reverse-integer/solution.go)
 | Palindrome Number | 🙂 | [🔗](https://leetcode.com/problems/palindrome-number/) | [💡](leetcode/palindrome-number/solution.go)
 | Remove Vowels from a String | 🙂 | [🔗](https://leetcode.com/problems/remove-vowels-from-a-string/) | [💡](leetcode/remove-vowels-from-a-string/solution.go)
+| Running Sum of 1d Array | 🙂 | [🔗](https://leetcode.com/problems/running-sum-of-1d-array/) | [💡](leetcode/running-sum-of-1d-array/solution.go)
