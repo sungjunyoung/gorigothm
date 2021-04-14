@@ -25,3 +25,5 @@
 | Palindrome Number | 🙂 | [🔗](https://leetcode.com/problems/palindrome-number/) | [💡](leetcode/palindrome-number/solution.go)
 | Remove Vowels from a String | 🙂 | [🔗](https://leetcode.com/problems/remove-vowels-from-a-string/) | [💡](leetcode/remove-vowels-from-a-string/solution.go)
 | Running Sum of 1d Array | 🙂 | [🔗](https://leetcode.com/problems/running-sum-of-1d-array/) | [💡](leetcode/running-sum-of-1d-array/solution.go)
+| Defanging an IP Adress | 🙂 | [🔗](https://leetcode.com/problems/defanging-an-ip-address/) | [💡](leetcode/defanging-an-ip-address/solution.go)
+| Richest Customer Wealth | 🙂 | [🔗](https://leetcode.com/problems/richest-customer-wealth/) | [💡](leetcode/richest-customer-wealth/solution.go)
