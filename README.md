@@ -28,3 +28,6 @@
 | Defanging an IP Adress | 🙂 | [🔗](https://leetcode.com/problems/defanging-an-ip-address/) | [💡](leetcode/defanging-an-ip-address/solution.go)
 | Richest Customer Wealth | 🙂 | [🔗](https://leetcode.com/problems/richest-customer-wealth/) | [💡](leetcode/richest-customer-wealth/solution.go)
 | Kids With the Greatest Number of Candies | 🙂 | [🔗](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [💡](leetcode/kids-with-the-greatest-number-of-candies/solution.go)
+| Shuffle the Array | 🙂 | [🔗](https://leetcode.com/problems/shuffle-the-array/) | [💡](leetcode/shuffle-the-array/solution.go)
+| Number of Good Pairs | 🙂 | [🔗](https://leetcode.com/problems/number-of-good-pairs/) | [💡](leetcode/number-of-good-pairs/solution.go)
+| Jewels and Stones | 🙂 | [🔗](https://leetcode.com/problems/jewels-and-stones/) | [💡](leetcode/jewels-and-stones/solution.go)
