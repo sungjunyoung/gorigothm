@@ -31,3 +31,6 @@
 | Shuffle the Array | 🙂 | [🔗](https://leetcode.com/problems/shuffle-the-array/) | [💡](leetcode/shuffle-the-array/solution.go)
 | Number of Good Pairs | 🙂 | [🔗](https://leetcode.com/problems/number-of-good-pairs/) | [💡](leetcode/number-of-good-pairs/solution.go)
 | Jewels and Stones | 🙂 | [🔗](https://leetcode.com/problems/jewels-and-stones/) | [💡](leetcode/jewels-and-stones/solution.go)
+| Design Parking System | 🙂 | [🔗](https://leetcode.com/problems/design-parking-system/) | [💡](leetcode/design-parking-system/solution.go)
+| Range Sum of BST | 🙂 | [🔗](https://leetcode.com/problems/range-sum-of-bst/) | [💡](leetcode/range-sum-of-bst/solution.go)
+| Robot Bounded In Circle | 😳 | [🔗](https://leetcode.com/problems/robot-bounded-in-circle/) | [💡](leetcode/robot-bounded-in-circle/solution.go)
