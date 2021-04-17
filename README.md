@@ -41,3 +41,4 @@
 | Add Strings | 🙂 | [🔗](https://leetcode.com/problems/add-strings/) | [💡](leetcode/add-strings/solution.go)
 | Maximum Subarray | 😳 | [🔗](https://leetcode.com/problems/maximum-subarray/) | [💡](leetcode/maximum-subarray/solution.go)
 | Degree of an Array | 🙂 | [🔗](https://leetcode.com/problems/degree-of-an-array/) | [💡](leetcode/degree-of-an-array/solution.go)
+| Group Anagrams | 🙂 | [🔗](https://leetcode.com/problems/group-anagrams/) | [💡](leetcode/group-anagrams/solution.go)
