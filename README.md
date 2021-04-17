@@ -42,3 +42,7 @@
 | Maximum Subarray | 😳 | [🔗](https://leetcode.com/problems/maximum-subarray/) | [💡](leetcode/maximum-subarray/solution.go)
 | Degree of an Array | 🙂 | [🔗](https://leetcode.com/problems/degree-of-an-array/) | [💡](leetcode/degree-of-an-array/solution.go)
 | Group Anagrams | 🙂 | [🔗](https://leetcode.com/problems/group-anagrams/) | [💡](leetcode/group-anagrams/solution.go)
+| Sign of the Product of an Array | 🙂 | [🔗](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [💡](leetcode/sign-of-the-product-of-an-array/solution.go)
+| Reverse String | 🙂 | [🔗](https://leetcode.com/problems/reverse-string/) | [💡](leetcode/reverse-string/solution.go)
+| Maximum Depth of Binary Tree | 🙂 | [🔗](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [💡](leetcode/maximum-depth-of-binary-tree/solution.go)
+| Delete Node in a Linked List | 🙂 | [🔗](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [💡](leetcode/delete-node-in-a-linked-list/solution.go)
