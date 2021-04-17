@@ -39,3 +39,5 @@
 | Best Valid Parentheses | 🙂 | [🔗](https://leetcode.com/problems/valid-parentheses/) | [💡](leetcode/valid-parentheses/solution.go)
 | Reverse Linked List | 🙂 | [🔗](https://leetcode.com/problems/reverse-linked-list/) | [💡](leetcode/reverse-linked-list/solution.go)
 | Add Strings | 🙂 | [🔗](https://leetcode.com/problems/add-strings/) | [💡](leetcode/add-strings/solution.go)
+| Maximum Subarray | 😳 | [🔗](https://leetcode.com/problems/maximum-subarray/) | [💡](leetcode/maximum-subarray/solution.go)
+| Degree of an Array | 🙂 | [🔗](https://leetcode.com/problems/degree-of-an-array/) | [💡](leetcode/degree-of-an-array/solution.go)
