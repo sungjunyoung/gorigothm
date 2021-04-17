@@ -36,3 +36,6 @@
 | Robot Bounded In Circle | 😳 | [🔗](https://leetcode.com/problems/robot-bounded-in-circle/) | [💡](leetcode/robot-bounded-in-circle/solution.go)
 | LRU Cache | 😳 | [🔗](https://leetcode.com/problems/lru-cache/) | [💡](leetcode/lru-cache/solution.go)
 | Best Time to Buy and Sell Stock | 🙂 | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [💡](leetcode/best-time-to-buy-and-sell-stock/solution.go)
+| Best Valid Parentheses | 🙂 | [🔗](https://leetcode.com/problems/valid-parentheses/) | [💡](leetcode/valid-parentheses/solution.go)
+| Reverse Linked List | 🙂 | [🔗](https://leetcode.com/problems/reverse-linked-list/) | [💡](leetcode/reverse-linked-list/solution.go)
+| Add Strings | 🙂 | [🔗](https://leetcode.com/problems/add-strings/) | [💡](leetcode/add-strings/solution.go)
