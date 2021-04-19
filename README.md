@@ -49,3 +49,5 @@
 | Decompress Run-Length Encoded List | 🙂 | [🔗](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [💡](leetcode/decompress-run-length-encoded-list/solution.go)
 | How Many Numbers Are Smaller Than the Current Number | 🙂 | [🔗](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [💡](leetcode/how-many-numbers-are-smaller-than-the-current-number/solution.go)
 | Convert Binary Number in a Linked List to Integer | 🙂 | [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [💡](leetcode/convert-binary-number-in-a-linked-list-to-integer/solution.go)
+| Number of Islands | 🙂 | [🔗](https://leetcode.com/problems/number-of-islands/) | [💡](leetcode/number-of-islands/solution.go)
+| Merge Intervals | 🙂 | [🔗](https://leetcode.com/problems/merge-intervals/) | [💡](leetcode/merge-intervals/solution.go)
