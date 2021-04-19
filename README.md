@@ -51,3 +51,4 @@
 | Convert Binary Number in a Linked List to Integer | 🙂 | [🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [💡](leetcode/convert-binary-number-in-a-linked-list-to-integer/solution.go)
 | Number of Islands | 🙂 | [🔗](https://leetcode.com/problems/number-of-islands/) | [💡](leetcode/number-of-islands/solution.go)
 | Merge Intervals | 🙂 | [🔗](https://leetcode.com/problems/merge-intervals/) | [💡](leetcode/merge-intervals/solution.go)
+| Trapping Rain Water | 😳 | [🔗](https://leetcode.com/problems/trapping-rain-water/) | [💡](leetcode/trapping-rain-water/solution.go)
