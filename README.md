@@ -53,3 +53,4 @@
 | Merge Intervals | 😳 | [🔗](https://leetcode.com/problems/merge-intervals/) | [💡](leetcode/merge-intervals/solution.go)
 | Trapping Rain Water | 😳 | [🔗](https://leetcode.com/problems/trapping-rain-water/) | [💡](leetcode/trapping-rain-water/solution.go)
 | Product of Array Except Self | 🙂 | [🔗](https://leetcode.com/problems/product-of-array-except-self/) | [💡](leetcode/product-of-array-except-self/solution.go)
+| Subdomain Visit Count | 🙂 | [🔗](https://leetcode.com/problems/subdomain-visit-count/) | [💡](leetcode/subdomain-visit-count/solution.go)
