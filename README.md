@@ -54,3 +54,5 @@
 | Trapping Rain Water | 😳 | [🔗](https://leetcode.com/problems/trapping-rain-water/) | [💡](leetcode/trapping-rain-water/solution.go)
 | Product of Array Except Self | 🙂 | [🔗](https://leetcode.com/problems/product-of-array-except-self/) | [💡](leetcode/product-of-array-except-self/solution.go)
 | Subdomain Visit Count | 🙂 | [🔗](https://leetcode.com/problems/subdomain-visit-count/) | [💡](leetcode/subdomain-visit-count/solution.go)
+| Verifying an Alien Dictionary | 🙂 | [🔗](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [💡](leetcode/verifying-an-alien-dictionary/solution.go)
+| Merge Sorted Array | 🙂 | [🔗](https://leetcode.com/problems/merge-sorted-array/) | [💡](leetcode/merge-sorted-array/solution.go)
