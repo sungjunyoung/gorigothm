@@ -56,3 +56,7 @@
 | Subdomain Visit Count | 🙂 | [🔗](https://leetcode.com/problems/subdomain-visit-count/) | [💡](leetcode/subdomain-visit-count/solution.go)
 | Verifying an Alien Dictionary | 🙂 | [🔗](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [💡](leetcode/verifying-an-alien-dictionary/solution.go)
 | Merge Sorted Array | 🙂 | [🔗](https://leetcode.com/problems/merge-sorted-array/) | [💡](leetcode/merge-sorted-array/solution.go)
+| Longest Common Prefix | 🙂 | [🔗](https://leetcode.com/problems/longest-common-prefix/) | [💡](leetcode/longest-common-prefix/solution.go)
+| Design HashMap | 🙂 | [🔗](https://leetcode.com/problems/design-hashmap/) | [💡](leetcode/design-hashmap/solution.go)
+| Fizz Buzz | 🙂 | [🔗](https://leetcode.com/problems/fizz-buzz/) | [💡](leetcode/fizz-buzz/solution.go)
+| Valid Palindrome II | 🙂 | [🔗](https://leetcode.com/problems/valid-palindrome-ii/) | [💡](leetcode/valid-palindrome-ii/solution.go)
