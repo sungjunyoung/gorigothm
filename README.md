@@ -69,3 +69,4 @@
 | FrogJmp | 🙂 | [🔗](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | [💡](codility/frog-jmp/solution.go)
 | PermMissingElem | 🙂 | [🔗](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [💡](codility/perm-missing-elem/solution.go)
 | TapeEquilibrium | 🙂 | [🔗](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [💡](codility/tape-equilibrium/solution.go)
+| FrogRiverOne | 🙂 | [🔗](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [💡](codility/frog-river-one/solution.go)
