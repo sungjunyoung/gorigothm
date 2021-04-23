@@ -60,3 +60,10 @@
 | Design HashMap | 🙂 | [🔗](https://leetcode.com/problems/design-hashmap/) | [💡](leetcode/design-hashmap/solution.go)
 | Fizz Buzz | 🙂 | [🔗](https://leetcode.com/problems/fizz-buzz/) | [💡](leetcode/fizz-buzz/solution.go)
 | Valid Palindrome II | 🙂 | [🔗](https://leetcode.com/problems/valid-palindrome-ii/) | [💡](leetcode/valid-palindrome-ii/solution.go)
+| Merge Two Sorted Lists | 🙂 | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | [💡](leetcode/merge-two-sorted-lists/solution.go)
+
+## Codility
+| BinaryGap | 🙂 | [🔗](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [💡](codility/binary-gap/solution.go)
+| CyclicRotation | 🙂 | [🔗](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [💡](codility/cyclic-rotation/solution.go)
+| OddOccurrencesInArray | 🙂 | [🔗](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [💡](codility/odd-occurrences-in-array/solution.go)
+| FrogJmp | 🙂 | [🔗](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | [💡](codility/frog-jmp/solution.go)
