@@ -71,3 +71,6 @@
 | TapeEquilibrium | 🙂 | [🔗](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [💡](codility/tape-equilibrium/solution.go)
 | FrogRiverOne | 🙂 | [🔗](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [💡](codility/frog-river-one/solution.go)
 | MaxCounters | 🙂 | [🔗](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | [💡](codility/max-counters/solution.go)
+| MissingInteger | 🙂 | [🔗](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [💡](codility/missing-integer/solution.go)
+| PermCheck | 🙂 | [🔗](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | [💡](codility/perm-check/solution.go)
+| CountDiv | 🙂 | [🔗](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) | [💡](codility/count-div/solution.go)
