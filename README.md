@@ -66,7 +66,10 @@
 | Minimum Absolute Difference in BST | 🙂 | [🔗](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [💡](leetcode/minimum-absolute-difference-in-bst/solution.go)
 | Hamming Distance | 🙂 | [🔗](https://leetcode.com/problems/hamming-distance/) | [💡](leetcode/hamming-distance/solution.go)
 | Climbing Stairs | 🙂 | [🔗](https://leetcode.com/problems/climbing-stairs/) | [💡](leetcode/climbing-stairs/solution.go)
-| Middle of the Linked List | 🙂 | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [💡](leetcode/middle-of-the-linked-list/solution.go)
+| Middle of the Linked List | 🙂 | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) | [💡](leetcode/middle-of-the-linked-list/solution.go)
+| Single Number | 🙂 | [🔗](https://leetcode.com/problems/single-number/) | [💡](leetcode/single-number/solution.go)
+| Binary Tree Level Order Traversal II | 🙂 | [🔗](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [💡](leetcode/binary-tree-level-order-traversal-ii/solution.go)
+| Binary Tree Inorder Traversal | 🙂 | [🔗](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [💡](leetcode/binary-tree-inorder-traversal/solution.go)
 
 ## Codility
 
