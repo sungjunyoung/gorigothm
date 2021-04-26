@@ -1,36 +1,33 @@
 package valid_parentheses
 
 func isValid(s string) bool {
-	var stack []string
+	opening := map[string]int{
+		"(": 0,
+		"{": 1,
+		"[": 2,
+	}
+	closing := map[string]int{
+		")": 0,
+		"}": 1,
+		"]": 2,
+	}
+	var stack []int
 
-	for _, r := range s {
-		switch string(r) {
-		case "(":
-			stack = append(stack, "(")
-		case "{":
-			stack = append(stack, "{")
-		case "[":
-			stack = append(stack, "[")
+	for _, c := range s {
+		if val, ok := opening[string(c)]; ok {
+			stack = append(stack, val)
+			continue
 		}
 
-		if len(stack) == 0 {
-			return false
-		}
-		switch string(r) {
-		case ")":
-			if stack[len(stack)-1] != "(" {
+		if val, ok := closing[string(c)]; ok {
+			if len(stack) == 0 {
 				return false
 			}
-			stack = stack[:len(stack)-1]
-		case "}":
-			if stack[len(stack)-1] != "{" {
+
+			if val != stack[len(stack)-1] {
 				return false
 			}
-			stack = stack[:len(stack)-1]
-		case "]":
-			if stack[len(stack)-1] != "[" {
-				return false
-			}
+
 			stack = stack[:len(stack)-1]
 		}
 	}

@@ -64,6 +64,9 @@
 | N-ary Tree Preorder Traversal | 🙂 | [🔗](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [💡](leetcode/n-ary-tree-preorder-traversal/solution.go)
 | Generate Parentheses | 🙂 | [🔗](https://leetcode.com/problems/generate-parentheses/) | [💡](leetcode/generate-parentheses/solution.go)
 | Minimum Absolute Difference in BST | 🙂 | [🔗](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [💡](leetcode/minimum-absolute-difference-in-bst/solution.go)
+| Hamming Distance | 🙂 | [🔗](https://leetcode.com/problems/hamming-distance/) | [💡](leetcode/hamming-distance/solution.go)
+| Climbing Stairs | 🙂 | [🔗](https://leetcode.com/problems/climbing-stairs/) | [💡](leetcode/climbing-stairs/solution.go)
+| Middle of the Linked List | 🙂 | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [💡](leetcode/middle-of-the-linked-list/solution.go)
 
 ## Codility
 

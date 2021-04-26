@@ -11,14 +11,13 @@ func preorder(root *Node) []int {
 	return result
 }
 
-func traverse(root *Node, result *[]int) {
-	if root == nil {
+func traverse(self *Node, result *[]int) {
+	if self == nil {
 		return
 	}
-	*result = append(*result, root.Val)
-	if root.Children != nil {
-		for _, child := range root.Children {
-			traverse(child, result)
-		}
+
+	*result = append(*result, self.Val)
+	for _, child := range self.Children {
+		traverse(child, result)
 	}
 }
