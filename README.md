@@ -62,8 +62,13 @@
 | Valid Palindrome II | 🙂 | [🔗](https://leetcode.com/problems/valid-palindrome-ii/) | [💡](leetcode/valid-palindrome-ii/solution.go)
 | Merge Two Sorted Lists | 🙂 | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | [💡](leetcode/merge-two-sorted-lists/solution.go)
 | N-ary Tree Preorder Traversal | 🙂 | [🔗](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [💡](leetcode/n-ary-tree-preorder-traversal/solution.go)
+| Generate Parentheses | 🙂 | [🔗](https://leetcode.com/problems/generate-parentheses/) | [💡](leetcode/generate-parentheses/solution.go)
+| Minimum Absolute Difference in BST | 🙂 | [🔗](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [💡](leetcode/minimum-absolute-difference-in-bst/solution.go)
 
 ## Codility
+
+| Problem | Difficulty | Leetcode Link | Solution Link |
+| ------- | ----------- | ---- | ------------------ |
 | BinaryGap | 🙂 | [🔗](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [💡](codility/binary-gap/solution.go)
 | CyclicRotation | 🙂 | [🔗](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) | [💡](codility/cyclic-rotation/solution.go)
 | OddOccurrencesInArray | 🙂 | [🔗](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [💡](codility/odd-occurrences-in-array/solution.go)
