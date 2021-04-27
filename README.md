@@ -72,7 +72,7 @@
 | Binary Tree Inorder Traversal | 🙂 | [🔗](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [💡](leetcode/binary-tree-inorder-traversal/solution.go)
 | Possible Bipartition | 🙂 | [🔗](https://leetcode.com/problems/possible-bipartition/) | [💡](leetcode/possible-bipartition/solution.go)
 | Top K Frequent Words | 😳 | [🔗](https://leetcode.com/problems/top-k-frequent-words/) | [💡](leetcode/top-k-frequent-words/solution.go)
-| Minimum Path Sum | 😳 | [🔗](https://leetcode.com/problems/minimum-path-sum/) | [💡](leetcode/minimum-path-sum/solution.go)
+| Minimum Path Sum | 🙂 | [🔗](https://leetcode.com/problems/minimum-path-sum/) | [💡](leetcode/minimum-path-sum/solution.go)
 
 ## Codility
 
