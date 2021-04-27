@@ -70,6 +70,7 @@
 | Single Number | 🙂 | [🔗](https://leetcode.com/problems/single-number/) | [💡](leetcode/single-number/solution.go)
 | Binary Tree Level Order Traversal II | 🙂 | [🔗](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [💡](leetcode/binary-tree-level-order-traversal-ii/solution.go)
 | Binary Tree Inorder Traversal | 🙂 | [🔗](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [💡](leetcode/binary-tree-inorder-traversal/solution.go)
+| Possible Bipartition | 🙂 | [🔗](https://leetcode.com/problems/possible-bipartition/) | [💡](leetcode/possible-bipartition/solution.go)
 
 ## Codility
 
