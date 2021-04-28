@@ -73,6 +73,7 @@
 | Possible Bipartition | 🙂 | [🔗](https://leetcode.com/problems/possible-bipartition/) | [💡](leetcode/possible-bipartition/solution.go)
 | Top K Frequent Words | 😳 | [🔗](https://leetcode.com/problems/top-k-frequent-words/) | [💡](leetcode/top-k-frequent-words/solution.go)
 | Minimum Path Sum | 🙂 | [🔗](https://leetcode.com/problems/minimum-path-sum/) | [💡](leetcode/minimum-path-sum/solution.go)
+| Sum of Left Leaves | 🙂 | [🔗](https://leetcode.com/problems/sum-of-left-leaves/) | [💡](leetcode/sum-of-left-leaves/solution.go)
 
 ## Codility
 
