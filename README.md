@@ -96,3 +96,5 @@
 | MaxProductOfThree | 😳 | [🔗](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | [💡](codility/max-product-of-three/solution.go)
 | Brackets | 🙂 | [🔗](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) | [💡](codility/brackets/solution.go)
 | Fish | 🙂 | [🔗](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | [💡](codility/fish/solution.go)
+| Nesting | 🙂 | [🔗](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | [💡](codility/nesting/solution.go)
+| Dominator | 🙂 | [🔗](https://app.codility.com/programmers/lessons/8-leader/dominator/) | [💡](codility/dominator/solution.go)
