@@ -81,6 +81,10 @@
 | Symmetric Tree | 🙂 | [🔗](https://leetcode.com/problems/symmetric-tree/) | [💡](leetcode/symmetric-tree/solution.go)
 | Add Binary | 🙂 | [🔗](https://leetcode.com/problems/add-binary/) | [💡](leetcode/add-binary/solution.go)
 | Invert Binary Tree | 🙂 | [🔗](https://leetcode.com/problems/invert-binary-tree/) | [💡](leetcode/invert-binary-tree/solution.go)
+| Shortest Word Distance | 🙂 | [🔗](https://leetcode.com/problems/shortest-word-distance/) | [💡](leetcode/shortest-word-distance/solution.go)
+| Is Subsequence | 🙂 | [🔗](https://leetcode.com/problems/is-subsequence/) | [💡](leetcode/is-subsequence/solution.go)
+| Longest Palindrome | 🙂 | [🔗](https://leetcode.com/problems/longest-palindrome/) | [💡](leetcode/longest-palindrome/solution.go)
+| First Unique Character in a String | 🙂 | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/) | [💡](leetcode/first-unique-character-in-a-string/solution.go)
 
 ## Codility
 
