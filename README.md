@@ -76,6 +76,11 @@
 | Sum of Left Leaves | 🙂 | [🔗](https://leetcode.com/problems/sum-of-left-leaves/) | [💡](leetcode/sum-of-left-leaves/solution.go)
 | Majority Element | 🙂 | [🔗](https://leetcode.com/problems/majority-element/) | [💡](leetcode/majority-element/solution.go)
 | Happy Number | 🙂 | [🔗](https://leetcode.com/problems/happy-number/) | [💡](leetcode/happy-number/solution.go)
+| Min Stack | 🙂 | [🔗](https://leetcode.com/problems/min-stack/) | [💡](leetcode/min-stack/solution.go)
+| Same Tree | 🙂 | [🔗](https://leetcode.com/problems/same-tree/) | [💡](leetcode/same-tree/solution.go)
+| Symmetric Tree | 🙂 | [🔗](https://leetcode.com/problems/symmetric-tree/) | [💡](leetcode/symmetric-tree/solution.go)
+| Add Binary | 🙂 | [🔗](https://leetcode.com/problems/add-binary/) | [💡](leetcode/add-binary/solution.go)
+| Invert Binary Tree | 🙂 | [🔗](https://leetcode.com/problems/invert-binary-tree/) | [💡](leetcode/invert-binary-tree/solution.go)
 
 ## Codility
 
