@@ -86,6 +86,8 @@
 | Longest Palindrome | 🙂 | [🔗](https://leetcode.com/problems/longest-palindrome/) | [💡](leetcode/longest-palindrome/solution.go)
 | First Unique Character in a String | 🙂 | [🔗](https://leetcode.com/problems/first-unique-character-in-a-string/) | [💡](leetcode/first-unique-character-in-a-string/solution.go)
 | Ransom Note | 🙂 | [🔗](https://leetcode.com/problems/ransom-note/) | [💡](leetcode/ransom-note/solution.go)
+| Contains Duplicate | 🙂 | [🔗](https://leetcode.com/problems/contains-duplicate/) | [💡](leetcode/contains-duplicate/solution.go)
+| Contains Duplicate II | 🙂 | [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | [💡](leetcode/contains-duplicate-ii/solution.go)
 
 ## Codility
 
