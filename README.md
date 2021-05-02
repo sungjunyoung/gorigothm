@@ -88,6 +88,7 @@
 | Ransom Note | 🙂 | [🔗](https://leetcode.com/problems/ransom-note/) | [💡](leetcode/ransom-note/solution.go)
 | Contains Duplicate | 🙂 | [🔗](https://leetcode.com/problems/contains-duplicate/) | [💡](leetcode/contains-duplicate/solution.go)
 | Contains Duplicate II | 🙂 | [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | [💡](leetcode/contains-duplicate-ii/solution.go)
+| Maximum Units on a Truck | 🙂 | [🔗](https://leetcode.com/problems/maximum-units-on-a-truck/) | [💡](leetcode/maximum-units-on-a-truck/solution.go)
 
 ## Codility
 
