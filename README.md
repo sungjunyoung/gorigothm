@@ -89,6 +89,14 @@
 | Contains Duplicate | 🙂 | [🔗](https://leetcode.com/problems/contains-duplicate/) | [💡](leetcode/contains-duplicate/solution.go)
 | Contains Duplicate II | 🙂 | [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | [💡](leetcode/contains-duplicate-ii/solution.go)
 | Maximum Units on a Truck | 🙂 | [🔗](https://leetcode.com/problems/maximum-units-on-a-truck/) | [💡](leetcode/maximum-units-on-a-truck/solution.go)
+| Factorial Trailing Zeroes | 🙂 | [🔗](https://leetcode.com/problems/factorial-trailing-zeroes/) | [💡](leetcode/factorial-trailing-zeroes/solution.go)
+| Path Sum | 🙂 | [🔗](https://leetcode.com/problems/path-sum/) | [💡](leetcode/path-sum/solution.go)
+
+## HackerRank
+| Problem | Difficulty | Leetcode Link | Solution Link |
+| CamelCase | 🙂 | [🔗](https://www.hackerrank.com/challenges/camelcase/problem) | [💡](hackerrank/camelcase/solution.go)
+| Compare the Triplets | 🙂 | [🔗](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [💡](hackerrank/compare-the-triplets/solution.go)
+
 
 ## Codility
 
