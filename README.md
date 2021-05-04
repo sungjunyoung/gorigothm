@@ -91,6 +91,10 @@
 | Maximum Units on a Truck | 🙂 | [🔗](https://leetcode.com/problems/maximum-units-on-a-truck/) | [💡](leetcode/maximum-units-on-a-truck/solution.go)
 | Factorial Trailing Zeroes | 🙂 | [🔗](https://leetcode.com/problems/factorial-trailing-zeroes/) | [💡](leetcode/factorial-trailing-zeroes/solution.go)
 | Path Sum | 🙂 | [🔗](https://leetcode.com/problems/path-sum/) | [💡](leetcode/path-sum/solution.go)
+| Remove Duplicates from Sorted Array | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/) | [💡](leetcode/remove-duplicates-from-sorted-array/solution.go)
+| Rotate Array | 😳 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646/) | [💡](leetcode/rotate-array/solution.go)
+| Intersection of Two Arrays II | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/674/) | [💡](leetcode/intersection-of-two-arrays-ii/solution.go)
+
 
 ## HackerRank
 | Problem | Difficulty | Leetcode Link | Solution Link |
