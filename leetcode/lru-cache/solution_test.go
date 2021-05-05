@@ -1,6 +1,8 @@
 package lru_cache
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestLRUCache_GetPut1(t *testing.T) {
 	lc := Constructor(2)

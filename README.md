@@ -94,6 +94,12 @@
 | Remove Duplicates from Sorted Array | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/) | [💡](leetcode/remove-duplicates-from-sorted-array/solution.go)
 | Rotate Array | 😳 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646/) | [💡](leetcode/rotate-array/solution.go)
 | Intersection of Two Arrays II | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/674/) | [💡](leetcode/intersection-of-two-arrays-ii/solution.go)
+| Plus One | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/559/) | [💡](leetcode/plus-one/solution.go)
+| Move Zeroes | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/567/) | [💡](leetcode/move-zeros/solution.go)
+| Valid Anagram | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/882/) | [💡](leetcode/valid-anagram/solution.go)
+| Valid Palindrome | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/) | [💡](leetcode/valid-palindrome/solution.go)
+| Implement strStr() | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/885/) | [💡](leetcode/implement-strStr/solution.go)
+| Count and Say | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/886/) | [💡](leetcode/count-and-say/solution.go)
 
 
 ## HackerRank

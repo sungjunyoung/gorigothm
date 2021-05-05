@@ -1,22 +1,31 @@
 package reverse_integer
 
+import "math"
+
 func reverse(x int) int {
+	tmp := x
+	i := 1
+	for tmp != 0 {
+		i *= 10
+		tmp /= 10
+	}
+	i /= 10
+
 	result := 0
 	for {
 		if x == 0 {
 			break
 		}
 
-		result = (result * 10) + (x % 10)
+		rest := x % 10
 		x = x / 10
+
+		result += rest * i
+		i /= 10
 	}
 
-	if result < -2147483648 || result > 2147483648 {
+	if result < math.MinInt32 || result > math.MaxInt32 {
 		return 0
-	}
-
-	if x < 0 {
-		return -result
 	}
 
 	return result

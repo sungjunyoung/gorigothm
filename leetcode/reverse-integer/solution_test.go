@@ -11,12 +11,12 @@ func Test_reverse(t *testing.T) {
 		expect int
 	}{
 		{
-			x:      1534236469,
-			expect: 0,
-		},
-		{
 			x:      123,
 			expect: 321,
+		},
+		{
+			x:      1534236469,
+			expect: 0,
 		},
 		{
 			x:      -123,
