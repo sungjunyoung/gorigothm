@@ -100,6 +100,8 @@
 | Valid Palindrome | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/) | [💡](leetcode/valid-palindrome/solution.go)
 | Implement strStr() | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/885/) | [💡](leetcode/implement-strStr/solution.go)
 | Count and Say | 🙂 | [🔗](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/886/) | [💡](leetcode/count-and-say/solution.go)
+| Binary Tree Preorder Traversal | 🙂 | [🔗](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/) | [💡](leetcode/binary-tree-preorder-traversal/solution.go)
+| Binary Tree Level Order Traversal | 🙂 | [🔗](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/931/) | [💡](leetcode/binary-tree-level-order-traversal/solution.go)
 
 
 ## HackerRank
