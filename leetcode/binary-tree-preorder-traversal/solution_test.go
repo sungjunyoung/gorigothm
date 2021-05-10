@@ -1,7 +1,7 @@
 package binary_tree_preorder_traversal
 
 import (
-	"reflect"
+	"github.com/stretchr/testify/assert"
 	"testing"
 )
 
@@ -25,8 +25,6 @@ func Test_preorderTraversal(t *testing.T) {
 	}
 
 	for _, test := range tests {
-		if !reflect.DeepEqual(preorderTraversal(test.root), test.expect) {
-			t.Error("failed")
-		}
+		assert.Equal(t, preorderTraversal(test.root), test.expect)
 	}
 }

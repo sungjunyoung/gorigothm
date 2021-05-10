@@ -17,7 +17,7 @@ func traverse(cur *TreeNode, res *[]int) {
 		return
 	}
 
-	traverse(cur.Left, res)
 	*res = append(*res, cur.Val)
+	traverse(cur.Left, res)
 	traverse(cur.Right, res)
 }
